@@ -1,5 +1,5 @@
-<svg viewBox="0 0 1000 510" width="1000" height="410" xmlns="http://www.w3.org/2000/svg">
-  <rect width="1000" height="510" rx="12" fill="#f6f8fa" stroke="#e0e0e0" stroke-width="1"/>
+<svg viewBox="0 0 1000 340" width="1000" height="340" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1000" height="340" rx="12" fill="#f6f8fa" stroke="#e0e0e0" stroke-width="1"/>
   <rect width="1000" height="60" rx="12" fill="#ebebeb"/>
   <rect y="28" width="1000" height="16" fill="#ebebeb"/>
   <line x1="0" y1="60" x2="1000" y2="60" stroke="#d0d0d0" stroke-width="1"/>
@@ -7,26 +7,26 @@
   <circle cx="22" cy="20" r="7" fill="#ff5f56"/>
   <circle cx="44" cy="20" r="7" fill="#ffbd2e"/>
   <circle cx="66" cy="20" r="7" fill="#27c93f"/>
-  <text x="400" y="25" font-family="monospace" font-size="16" fill="#999" text-anchor="middle">about.sh</text>
+  <text x="400" y="25" font-family="monospace" font-size="11" fill="#999" text-anchor="middle">about.sh</text>
 
-  <text x="28" y="78" font-family="monospace" font-size="18" fill="#27c93f">~$</text>
-  <text x="52" y="78" font-family="monospace" font-size="18" fill="#999">cat about.txt</text>
+  <text x="28" y="98" font-family="monospace" font-size="17" fill="#27c93f">~$</text>
+  <text x="58" y="98" font-family="monospace" font-size="17" fill="#999">cat about.txt</text>
 
-  <text x="28" y="114" font-family="monospace" font-size="18" fill="#e3a800">name</text>
-  <text x="175" y="114" font-family="monospace" font-size="18" fill="#1a1a1a">Vishva Patel</text>
+  <text x="28" y="135" font-family="monospace" font-size="17" fill="#e3a800">name</text>
+  <text x="200" y="135" font-family="monospace" font-size="17" fill="#1a1a1a">Vishva Patel</text>
 
-  <text x="28" y="150" font-family="monospace" font-size="18" fill="#e3a800">degree</text>
-  <text x="175" y="150" font-family="monospace" font-size="18" fill="#1a1a1a">M.S. Cybersecurity — UT Dallas </text>
+  <text x="28" y="168" font-family="monospace" font-size="17" fill="#e3a800">degree</text>
+  <text x="200" y="168" font-family="monospace" font-size="17" fill="#1a1a1a">M.S. Cybersecurity — UT Dallas</text>
 
-  <text x="28" y="186" font-family="monospace" font-size="18" fill="#e3a800">focus</text>
-  <text x="175" y="186" font-family="monospace" font-size="18" fill="#1a1a1a">Full-stack · AI systems · RAG · LLMs</text>
+  <text x="28" y="201" font-family="monospace" font-size="17" fill="#e3a800">focus</text>
+  <text x="200" y="201" font-family="monospace" font-size="17" fill="#1a1a1a">Full-stack · AI systems · RAG · LLMs</text>
 
-  <text x="28" y="222" font-family="monospace" font-size="18" fill="#e3a800">experience</text>
-  <text x="175" y="222" font-family="monospace" font-size="18" fill="#1a1a1a">Cybersecurity Consultant @ Toyota Motors North America · Founder and CEO @ Resilient Privacy Inc</text>
+  <text x="28" y="234" font-family="monospace" font-size="17" fill="#e3a800">experience</text>
+  <text x="200" y="234" font-family="monospace" font-size="17" fill="#1a1a1a">Cybersecurity Consultant @ Toyota · Founder &amp; CEO @ Resilient Privacy Inc</text>
 
-  <text x="28" y="258" font-family="monospace" font-size="18" fill="#e3a800">looking_for</text>
-  <text x="175" y="258" font-family="monospace" font-size="18" fill="#1a1a1a">SWE · Full-Stack · AI Engineer roles</text>
+  <text x="28" y="267" font-family="monospace" font-size="17" fill="#e3a800">looking_for</text>
+  <text x="200" y="267" font-family="monospace" font-size="17" fill="#1a1a1a">SWE · Full-Stack · AI Engineer roles</text>
 
-  <text x="28" y="292" font-family="monospace" font-size="18" fill="#27c93f">~$</text>
-  <rect x="52" y="279" width="9" height="15" fill="#1a1a1a" opacity="0.6"/>
+  <text x="28" y="310" font-family="monospace" font-size="17" fill="#27c93f">~$</text>
+  <rect x="58" y="297" width="10" height="17" fill="#1a1a1a" opacity="0.6"/>
 </svg>
