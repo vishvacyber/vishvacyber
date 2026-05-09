@@ -22,7 +22,7 @@
   <rect x="28" y="58" width="3" height="36" fill="#0d1117" opacity="0.15" rx="1"/>
 
   <!-- Main name line -->
-  <text x="38" y="88" font-family="monospace" font-size="46" font-weight="bold" fill="#0d1117" letter-spacing="-1">Vishwaa Shah</text>
+  <text x="38" y="88" font-family="monospace" font-size="46" font-weight="bold" fill="#0d1117" letter-spacing="-1">Vishva Patel</text>
 
   <!-- Role line -->
   <text x="38" y="138" font-family="monospace" font-size="30" font-weight="bold" fill="#555" letter-spacing="-0.5">SWE  ·  Full-Stack  ·  AI Engineer</text>
