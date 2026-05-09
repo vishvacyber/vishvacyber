@@ -1,4 +1,4 @@
-<svg viewBox="0 0 1000 510" width="1000" height="510" xmlns="http://www.w3.org/2000/svg">
+<svg viewBox="0 0 1000 510" width="1000" height="410" xmlns="http://www.w3.org/2000/svg">
   <rect width="1000" height="510" rx="12" fill="#f6f8fa" stroke="#e0e0e0" stroke-width="1"/>
   <rect width="1000" height="60" rx="12" fill="#ebebeb"/>
   <rect y="28" width="1000" height="16" fill="#ebebeb"/>
@@ -16,7 +16,7 @@
   <text x="175" y="114" font-family="monospace" font-size="18" fill="#1a1a1a">Vishva Patel</text>
 
   <text x="28" y="150" font-family="monospace" font-size="18" fill="#e3a800">degree</text>
-  <text x="175" y="150" font-family="monospace" font-size="14" fill="#1a1a1a">M.S. Cybersecurity — UT Dallas </text>
+  <text x="175" y="150" font-family="monospace" font-size="18" fill="#1a1a1a">M.S. Cybersecurity — UT Dallas </text>
 
   <text x="28" y="186" font-family="monospace" font-size="18" fill="#e3a800">focus</text>
   <text x="175" y="186" font-family="monospace" font-size="18" fill="#1a1a1a">Full-stack · AI systems · RAG · LLMs</text>
