@@ -58,5 +58,5 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vishvacyber&style=flat-square&color=grey" alt="profile views" />
   &nbsp;·&nbsp;
-  <b>Open to opportunities</b> — founder@resilientprivacy.com
+  <b>Email at</b> — founder@resilientprivacy.com
 </p>
