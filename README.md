@@ -253,7 +253,7 @@ Mission        : Making enterprise-grade security accessible to every SMB
 $ cat career.log
 
 [2025–Present] Cybersecurity Analyst
-  └── Toyota Motors North America (via Rapport IT Services)
+  └── Toyota Motors North America
       └── Product Cybersecurity Group | Dallas, TX
 
 [2025–Present] Founder & CEO
