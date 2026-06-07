@@ -210,13 +210,7 @@ Mission        : Making enterprise-grade security accessible to every SMB
 
 ## `> github --stats`
 
-<div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vishvacyber&amp;show_icons=true&amp;theme=tokyonight&amp;include_all_commits=true&amp;count_private=true&amp;hide_border=true&amp;bg_color=0a0f2e&amp;title_color=4f9cf9&amp;text_color=c9d1d9&amp;icon_color=4f9cf9" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishvacyber&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0a0f2e&amp;title_color=4f9cf9&amp;text_color=c9d1d9&amp;langs_count=8" />
-
-</div>
 
 <div align="center">
 
@@ -269,16 +263,6 @@ $ cat career.log
 [10+ Years] Cybersecurity Career Spanning:
   └── Threat Intelligence · Red Team · SOC · GRC · AI Security
 ```
-
----
-
-## `> cat trophies.md`
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=vishvacyber&theme=algolia&no-frame=true&no-bg=true&margin-w=10&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
 
 ---
 
