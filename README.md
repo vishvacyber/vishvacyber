@@ -246,7 +246,7 @@ Mission        : Making enterprise-grade security accessible to every SMB
 ```bash
 $ cat career.log
 
-[2025–Present] Cybersecurity Analyst
+[2025–Present] Cybersecurity Consultant
   └── Toyota Motors North America
       └── Product Cybersecurity Group | Dallas, TX
 
